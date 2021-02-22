@@ -55,7 +55,14 @@ import OntimeLeaveEntry.*;
   
    	
     	   objOntimeLeave= new OntimeLeaveEntry(driver);
-    	   objOntimeLeave.EnterOntimeLeave();
+    	   objOntimeLeave.SelectEmployeeFromSearch();
+    	   objOntimeLeave.SelectLeaveYear();
+    	   objOntimeLeave.SelectLeaveType();
+    	   objOntimeLeave.SelectLeaveReason();
+    	   objOntimeLeave.SelectStartDate();
+    	   objOntimeLeave.SelectEndDate();
+    	   objOntimeLeave.EnterRemarks();
+    	   objOntimeLeave.ClickButtonSave();
     	   System.out.println("Successfully Applied a Leave");
     	  driver.close();
     	  driver.quit();

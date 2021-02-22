@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="28281" started-at="2021-01-19T09:22:44 IST" finished-at="2021-01-19T09:23:13 IST">
+  <suite name="Default suite" duration-ms="31215" started-at="2021-01-26T11:36:09 IST" finished-at="2021-01-26T11:36:41 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="28281" started-at="2021-01-19T09:22:44 IST" finished-at="2021-01-19T09:23:13 IST">
+    <test name="Default test" duration-ms="31215" started-at="2021-01-26T11:36:09 IST" finished-at="2021-01-26T11:36:41 IST">
       <class name="Test.TestRunner">
-        <test-method status="PASS" signature="LogintoHCM()[pri:0, instance:Test.TestRunner@3fd7a715]" name="LogintoHCM" duration-ms="28232" started-at="2021-01-19T09:22:44 IST" finished-at="2021-01-19T09:23:13 IST">
+        <test-method status="PASS" signature="LogintoHCM()[pri:0, instance:Test.TestRunner@3fd7a715]" name="LogintoHCM" duration-ms="31188" started-at="2021-01-26T11:36:09 IST" finished-at="2021-01-26T11:36:41 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LogintoHCM -->
